@@ -1,14 +1,18 @@
+#Import libraries
 import customtkinter
 
+#Config customtkinter
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 
+#Construct login form box
 root = customtkinter.CTk()
 root.geometry("500x350")
 
 def login():
     print("Test")
 
+#Login form elements
 frame = customtkinter.CTkFrame(master=root)
 frame.pack(pady=20, padx=60, fill="both", expand=True)
 
