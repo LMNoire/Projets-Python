@@ -12,4 +12,5 @@ Série de petits projets réutilisables afin de monter en compétences en Python
 - Modern login form : Formulaire de connexion moderne avec customtkinter
 - Notepad : Bloc note avec fonction de sauvegarde et chargement fichiers .txt avec tkinter
 - Pdf viewer : Visionneuse de fichier pdf avec tkPDFviewer (+ version en .exe)
+- QR code generator : Générateur de QR code avec tkinter et qrcode
 - Todo list : Créer une todo list persistante sur fichier .txt avec tkinter
