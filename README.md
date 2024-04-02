@@ -3,6 +3,7 @@ Série de petits projets réutilisables afin de monter en compétences en Python
 # Contenu des projets
 - Address book : Repertoire d'utilisateurs avec tkinter
 - Calculator : Calculatrice avec tkinter
+- Dark day mode : Mode d'affichage sombre ou clair avec tkinter
 - Excel datasheet viewer : Visionneuse de fichier excel avec pandas
 - Image compressor : Compresseur de fichier image avec PIL
 - Image to pencil sketch : Convertir une image en croquis avec cv2
